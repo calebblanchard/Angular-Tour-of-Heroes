@@ -7,23 +7,19 @@ import { AppComponent } from './app.component';
 
 @NgModule({
 
-  declarations: [
-    AppComponent
-  ],
+	declarations: [
+		AppComponent
+	],
   
-  imports: [
-    BrowserModule,
-    FormsModule, // <-- import the FormsModule before binding with [(ngModel)]
-    HttpModule
-  ],
+	imports: [
+		BrowserModule,
+		FormsModule, // <-- import the FormsModule before binding with [(ngModel)]
+		HttpModule
+	],
   
-  providers: [],
+	providers: [],
   
-  bootstrap: [AppComponent]
+	bootstrap: [AppComponent]
 })
 
-<<<<<<< HEAD
 export class AppModule { }
-=======
-export class AppModule { }
->>>>>>> Part 3 completed

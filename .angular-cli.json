@@ -1,11 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-<<<<<<< HEAD
-    "name": "angular-tour-of-heroes"
-=======
     "name": "toh-cli"
->>>>>>> Part 3 completed
   },
   "apps": [
     {
