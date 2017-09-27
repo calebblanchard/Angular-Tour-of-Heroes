@@ -22,4 +22,8 @@ import { AppComponent } from './app.component';
   bootstrap: [AppComponent]
 })
 
+<<<<<<< HEAD
 export class AppModule { }
+=======
+export class AppModule { }
+>>>>>>> Part 3 completed
